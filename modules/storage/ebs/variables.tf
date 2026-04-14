@@ -1,0 +1,3 @@
+variable "az" {
+  type = string
+}
